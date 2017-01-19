@@ -1,0 +1,197 @@
+[INFO ] 2016-11-21 22:39:17.705 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancan with PID 3894 (started by dogancan in /home/dogancan/Masaüstü/kittbook-backend/kittbook_be)
+[INFO ] 2016-11-21 22:39:17.706 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-21 22:39:36.538 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-21 22:39:38.154 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 20.849 seconds (JVM running for 21.952)
+[INFO ] 2016-11-21 23:01:00.856 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancan with PID 4810 (started by dogancan in /home/dogancan/Masaüstü/kittbook-backend/kittbook_be)
+[INFO ] 2016-11-21 23:01:00.895 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-21 23:01:22.967 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-21 23:01:25.374 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 25.043 seconds (JVM running for 29.779)
+[INFO ] 2016-11-22 19:07:28.985 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancan with PID 5690 (started by dogancan in /home/dogancan/Masaüstü/kittbook-backend/kittbook_be)
+[INFO ] 2016-11-22 19:07:31.084 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-22 19:07:57.905 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-22 19:07:59.978 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 31.808 seconds (JVM running for 34.616)
+[INFO ] 2016-11-22 20:01:42.460 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancan with PID 7174 (started by dogancan in /home/dogancan/Masaüstü/kittbook-backend/kittbook_be)
+[INFO ] 2016-11-22 20:01:42.512 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-22 20:02:17.277 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-22 20:02:20.595 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 41.969 seconds (JVM running for 44.537)
+[INFO ] 2016-11-27 10:56:18.022 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 13044 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-27 10:56:18.024 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-27 10:56:37.946 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-27 10:56:38.777 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 20.969 seconds (JVM running for 21.913)
+[INFO ] 2016-11-27 12:58:38.092 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 10596 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-27 12:58:38.094 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-27 12:58:57.112 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-27 12:58:57.975 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 20.176 seconds (JVM running for 20.857)
+[INFO ] 2016-11-27 13:17:29.173 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 14024 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-27 13:17:29.177 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-27 13:18:00.426 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-27 13:18:03.638 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 35.644 seconds (JVM running for 38.359)
+[INFO ] 2016-11-27 17:12:46.719 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 11776 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-27 17:12:46.720 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-27 17:13:03.173 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-27 17:13:04.027 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 17.522 seconds (JVM running for 18.221)
+[INFO ] 2016-11-27 21:06:21.939 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 2336 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-27 21:06:21.940 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-27 21:06:41.774 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-27 21:06:42.641 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 20.954 seconds (JVM running for 21.668)
+[INFO ] 2016-11-29 20:19:37.270 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 12324 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:19:37.271 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:19:40.630 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:20:01.001 [restartedMain] BookstoreApplication - Started BookstoreApplication in 23.954 seconds (JVM running for 25.912)
+[ERROR] 2016-11-29 20:26:00.159 [http-nio-8080-exec-10] UserController - Wrong password
+[ERROR] 2016-11-29 20:27:05.899 [http-nio-8080-exec-2] UserController - Wrong password
+[INFO ] 2016-11-29 20:28:22.497 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 12324 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:28:22.497 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:28:23.791 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:28:41.025 [restartedMain] BookstoreApplication - Started BookstoreApplication in 18.595 seconds (JVM running for 545.936)
+[INFO ] 2016-11-29 20:30:06.233 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 12324 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:30:06.233 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:30:07.263 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:30:24.322 [restartedMain] BookstoreApplication - Started BookstoreApplication in 18.122 seconds (JVM running for 649.233)
+[INFO ] 2016-11-29 20:30:33.393 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 12324 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:30:33.393 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:30:34.239 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:30:52.472 [restartedMain] BookstoreApplication - Started BookstoreApplication in 19.111 seconds (JVM running for 677.383)
+[INFO ] 2016-11-29 20:31:13.679 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 12324 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:31:13.679 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:31:14.482 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:31:39.601 [restartedMain] BookstoreApplication - Started BookstoreApplication in 25.951 seconds (JVM running for 724.511)
+[INFO ] 2016-11-29 20:32:35.764 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 12324 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:32:35.765 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:32:36.555 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:32:53.018 [restartedMain] BookstoreApplication - Started BookstoreApplication in 17.283 seconds (JVM running for 797.929)
+[INFO ] 2016-11-29 20:32:57.965 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 12324 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:32:57.966 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:32:58.727 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:34:43.078 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 9664 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:34:43.079 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:34:45.661 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:35:13.909 [restartedMain] BookstoreApplication - Started BookstoreApplication in 31.041 seconds (JVM running for 31.835)
+[ERROR] 2016-11-29 20:35:59.726 [http-nio-8080-exec-1] UserController - Wrong password
+[ERROR] 2016-11-29 20:36:43.549 [http-nio-8080-exec-3] UserController - No user found
+[ERROR] 2016-11-29 20:37:04.125 [http-nio-8080-exec-4] UserController - Wrong password
+[INFO ] 2016-11-29 20:37:58.314 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 7472 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:37:58.315 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:38:25.410 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:38:26.241 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 28.132 seconds (JVM running for 29.116)
+[INFO ] 2016-11-29 20:48:13.965 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 15872 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:48:13.968 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:48:59.438 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:49:02.135 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 49.086 seconds (JVM running for 51.51)
+[INFO ] 2016-11-29 20:49:44.717 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 11832 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 20:49:44.720 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 20:49:56.414 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 20:51:05.897 [restartedMain] BookstoreApplication - Started BookstoreApplication in 81.977 seconds (JVM running for 84.974)
+[ERROR] 2016-11-29 20:52:06.374 [http-nio-8080-exec-2] UserController - Wrong password
+[INFO ] 2016-11-29 21:10:11.519 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 7080 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 21:10:11.522 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 21:10:50.242 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 21:10:52.954 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 42.17 seconds (JVM running for 44.546)
+[INFO ] 2016-11-29 21:21:21.136 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 10384 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 21:21:21.139 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 21:21:29.964 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 21:22:08.031 [restartedMain] BookstoreApplication - Started BookstoreApplication in 47.592 seconds (JVM running for 50.115)
+[INFO ] 2016-11-29 21:25:42.838 [restartedMain] BookstoreApplication - Starting BookstoreApplication on LAPTOP-L15NN3EG with PID 10384 (C:\Users\oguzc\Documents\kittbook_be\target\classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 21:25:42.839 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 21:25:50.726 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 21:25:58.564 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 16080 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-11-29 21:25:58.567 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-11-29 21:26:18.376 [restartedMain] BookstoreApplication - Started BookstoreApplication in 35.748 seconds (JVM running for 300.46)
+[INFO ] 2016-11-29 21:26:35.793 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-11-29 21:26:38.443 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 40.659 seconds (JVM running for 43.171)
+[INFO ] 2016-12-06 19:51:48.074 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 4580 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 19:51:48.100 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 19:53:26.705 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 5924 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 19:53:26.706 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 19:53:46.153 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 19:53:47.301 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 20.931 seconds (JVM running for 21.663)
+[INFO ] 2016-12-06 20:58:41.002 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 14476 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 20:58:41.003 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 20:59:00.040 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 20:59:00.965 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 20.207 seconds (JVM running for 21.993)
+[INFO ] 2016-12-06 21:23:14.988 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 16996 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 21:23:14.991 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 21:23:30.376 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 21:23:31.157 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.441 seconds (JVM running for 17.133)
+[INFO ] 2016-12-06 21:34:44.616 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 10696 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 21:34:44.617 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 21:35:00.109 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 21:35:00.996 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.657 seconds (JVM running for 17.384)
+[INFO ] 2016-12-06 21:40:46.047 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 7020 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 21:40:46.048 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 21:41:01.602 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 21:41:02.425 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.656 seconds (JVM running for 17.392)
+[INFO ] 2016-12-06 21:45:20.228 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 17316 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 21:45:20.229 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 21:45:36.376 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 21:45:37.311 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 17.357 seconds (JVM running for 18.086)
+[INFO ] 2016-12-06 21:52:53.106 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 9576 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 21:52:53.107 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 21:53:08.713 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 21:53:09.594 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.729 seconds (JVM running for 17.449)
+[INFO ] 2016-12-06 23:07:47.244 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 7468 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 23:07:47.245 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 23:08:02.701 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 23:08:03.496 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.518 seconds (JVM running for 17.207)
+[INFO ] 2016-12-06 23:28:31.998 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 14968 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-06 23:28:31.999 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-06 23:28:47.440 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-06 23:28:48.240 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.458 seconds (JVM running for 17.131)
+[INFO ] 2016-12-07 20:31:04.356 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 6784 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-07 20:31:04.383 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-07 20:31:23.533 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-07 20:31:24.868 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 20.812 seconds (JVM running for 22.07)
+[INFO ] 2016-12-09 20:04:43.928 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 7048 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-09 20:04:43.955 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-09 20:05:00.678 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-09 20:05:01.553 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 17.84 seconds (JVM running for 19.69)
+[INFO ] 2016-12-09 21:38:38.965 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 14640 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-09 21:38:38.965 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-09 21:38:54.225 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-09 21:38:55.097 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.397 seconds (JVM running for 17.144)
+[INFO ] 2016-12-10 11:12:31.124 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 14744 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-10 11:12:31.124 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-10 11:13:01.541 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 16604 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-10 11:13:01.542 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-10 11:13:17.227 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-10 11:13:18.102 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.821 seconds (JVM running for 17.52)
+[INFO ] 2016-12-11 23:25:08.257 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 10864 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-11 23:25:08.274 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-11 23:25:23.963 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-11 23:25:24.816 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.865 seconds (JVM running for 17.626)
+[INFO ] 2016-12-11 23:53:20.935 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 3300 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-11 23:53:20.936 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-11 23:53:35.977 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-11 23:53:36.777 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.105 seconds (JVM running for 16.801)
+[INFO ] 2016-12-12 01:00:44.142 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 5432 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2016-12-12 01:00:44.144 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2016-12-12 01:01:08.165 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2016-12-12 01:01:09.075 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 25.184 seconds (JVM running for 25.854)
+[INFO ] 2017-01-01 23:59:02.513 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancancelik with PID 18002 (/home/dogancancelik/Desktop/kittbook_be/target/test-classes started by dogancancelik in /home/dogancancelik/Desktop/kittbook_be)
+[INFO ] 2017-01-01 23:59:02.515 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-01 23:59:41.304 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2017-01-01 23:59:42.730 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 40.565 seconds (JVM running for 42.317)
+[INFO ] 2017-01-02 00:20:00.566 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancancelik with PID 19153 (/home/dogancancelik/Desktop/kittbook_be/target/test-classes started by dogancancelik in /home/dogancancelik/Desktop/kittbook_be)
+[INFO ] 2017-01-02 00:20:00.570 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-02 00:20:34.235 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2017-01-02 00:20:41.238 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 41.091 seconds (JVM running for 44.593)
+[INFO ] 2017-01-02 00:33:19.702 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancancelik with PID 19802 (/home/dogancancelik/Desktop/kittbook_be/target/test-classes started by dogancancelik in /home/dogancancelik/Desktop/kittbook_be)
+[INFO ] 2017-01-02 00:33:19.704 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-02 00:33:57.742 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2017-01-02 00:33:59.310 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 39.889 seconds (JVM running for 40.794)
+[INFO ] 2017-01-05 20:45:55.680 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancancelik with PID 10220 (/home/dogancancelik/Desktop/kittbook_be/target/test-classes started by dogancancelik in /home/dogancancelik/Desktop/kittbook_be)
+[INFO ] 2017-01-05 20:45:55.681 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-05 20:48:19.578 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on dogancancelik with PID 10424 (/home/dogancancelik/Desktop/kittbook_be/target/test-classes started by dogancancelik in /home/dogancancelik/Desktop/kittbook_be)
+[INFO ] 2017-01-05 20:48:19.580 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-05 20:48:54.507 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2017-01-05 20:48:56.019 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 36.72 seconds (JVM running for 37.528)
+[INFO ] 2017-01-09 00:04:29.525 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 11040 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2017-01-09 00:04:29.525 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-09 00:07:26.851 [main] BookstoreApplicationTests - Starting BookstoreApplicationTests on LAPTOP-L15NN3EG with PID 7108 (C:\Users\oguzc\Documents\kittbook_be\target\test-classes started by canberk in C:\Users\oguzc\Documents\kittbook_be)
+[INFO ] 2017-01-09 00:07:26.852 [main] BookstoreApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-09 00:07:42.596 [main] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2017-01-09 00:07:43.502 [main] BookstoreApplicationTests - Started BookstoreApplicationTests in 16.912 seconds (JVM running for 17.611)
+[INFO ] 2017-01-09 12:59:34.290 [restartedMain] BookstoreApplication - Starting BookstoreApplication on dogancancelik with PID 7274 (/home/dogancancelik/Desktop/kittbook_backup/kittbook_be/target/classes started by dogancancelik in /home/dogancancelik/Desktop/kittbook_backup/kittbook_be)
+[INFO ] 2017-01-09 12:59:34.291 [restartedMain] BookstoreApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-01-09 12:59:38.442 [localhost-startStop-1] SimpleCORSFilter - SimpleCORSFilter init
+[INFO ] 2017-01-09 13:00:00.049 [restartedMain] BookstoreApplication - Started BookstoreApplication in 26.027 seconds (JVM running for 27.13)
